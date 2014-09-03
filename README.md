@@ -2,6 +2,6 @@ aulagit
 =======
 Adicionando um readme
 
-comando  git remote sdd origin 
+comando  git remote add origin 
 
 
