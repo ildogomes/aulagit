@@ -1,11 +1,7 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-</head>
-
-<body>
-Erro 404
-</body>
-</html>
+<?php
+include_once('topo.php');
+?>
+<h1>Erro 404</h1>
+<?php
+include_once('footer.php');
+?>

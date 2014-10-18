@@ -1,4 +1,4 @@
-
+<?php include_once('topo.php'); ?>
     <script language="javascript">
         function valida() {
             ok = nomex();
@@ -59,3 +59,4 @@
             </tr>
         </table>
     </form>
+<?php include_once('footer.php'); ?>

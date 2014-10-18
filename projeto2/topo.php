@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
-    <link type="text/css" href="bootstrap.css" rel="Stylesheet"/>
+    <link type="text/css" href="css/bootstrap.css" rel="Stylesheet"/>
 </head>
 <body>
 
 <div id="container">
     <div align="center">
         <div id="topo">
-            <h1>Site simples em PHP</h1>
+            <h1>Site simples em PHP.</h1>
 
             <div id="menu">
                 <nav class="btn-group menu-opcoes">

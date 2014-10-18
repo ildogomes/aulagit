@@ -1,1 +1,7 @@
-<div id="content"><h1>Conteúdo Empresa</h1></div>
+<?php
+include_once('topo.php');
+?>
+    <h1>Empresa</h1>
+<?php
+include_once('footer.php');
+?>
