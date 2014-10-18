@@ -1,9 +1,7 @@
-aulagit
+Projeto2
 =======
-Adicionando um readme
+na url digite http://localhost:8000/projeto2/
 
-comando  git remote add origin https://github.com/ildogomes/aulagit.git
-
-git push origin master
+Qualquer porta
 
 
